@@ -14,10 +14,9 @@ author: Saltiola Experience
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  About Me: "saga"
+  Resources: "standard"
+  Shop: "www.saltiolaphotography"
 
 # --- Logo --- #
 
