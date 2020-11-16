@@ -16,7 +16,7 @@ author: Saltiola Experience
 navbar-links:
   Saga: "saga"
   Standard: "standard"
-  Blog: "blog"
+  # Blog: "blog"
   # Stars: ""
   # Support: ""
   Shop: "https://saltiola.photography"
@@ -190,7 +190,7 @@ highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
 
-paginate_path: "/blog/page:num/"
+# paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
