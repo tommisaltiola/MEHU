@@ -14,9 +14,9 @@ author: Saltiola Experience
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "saga"
-  Resources: "standard"
-  Shop: "www.saltiolaphotography"
+  Saga: "saga"
+  Standard: "standard"
+  Shop: "www.saltiola.photography"
 
 # --- Logo --- #
 
@@ -39,21 +39,17 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   facebook: deanattali
-  github: daattali
   twitter: daattali
 #  patreon: DeanAttali
 #  reddit: yourname
 #  linkedin: daattali
-#  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+  telephone: +358407479512
 #  twitch: yourname
-#  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
@@ -75,7 +71,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "mehujuice.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
