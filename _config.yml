@@ -17,7 +17,6 @@ navbar-links:
   SAGA: "saga"
   STANDARD: "standard"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   SHOP: "https://deanattali.com"
 
 # --- Logo --- #
