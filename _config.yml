@@ -16,7 +16,9 @@ author: Saltiola Experience
 navbar-links:
   Saga: "saga"
   Standard: "standard"
-  Shop: "www.saltiola.photography"
+  # Stars: ""
+  # Support: ""
+  Shop: "https://saltiola.photography"
 
 # --- Logo --- #
 
