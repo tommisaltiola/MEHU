@@ -14,10 +14,10 @@ author: Saltiola Experience
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  SAGA: "saga"
-  STANDARD: "standard"
+  About Me: "saga"
+  Resources: "standard"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-  SHOP: "https://deanattali.com"
+  SHOP: "www.saltiola.photography"
 
 # --- Logo --- #
 
