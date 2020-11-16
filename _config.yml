@@ -14,8 +14,8 @@ author: Saltiola Experience
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "saga"
-  Resources: "standard"
+  SAGA: "saga"
+  STANDARD: "standard"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
   SHOP: "www.saltiola.photography"
 
